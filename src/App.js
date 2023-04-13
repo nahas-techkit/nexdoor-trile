@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         This is a trial run for nexdoor
         </a>
       </header>
     </div>
