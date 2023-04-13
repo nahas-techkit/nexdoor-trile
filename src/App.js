@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         This is a trial run for nexdoor
+         This is a trial run for nexdoor web app
         </a>
       </header>
     </div>
